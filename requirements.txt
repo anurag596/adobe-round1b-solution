@@ -1,0 +1,7 @@
+python-multipart
+PyMuPDF
+sentence-transformers
+faiss-cpu
+numpy
+joblib
+pydantic

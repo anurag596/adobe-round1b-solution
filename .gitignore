@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Logs and environment
+*.log
+.env
+
+# Databases
+*.db
+*.sqlite3
+
+# Editor & system files
+.vscode/
+.idea/
+.DS_Store
+
+# Git and generated output
+.git/
+output/

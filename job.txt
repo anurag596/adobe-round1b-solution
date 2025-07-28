@@ -1,0 +1,1 @@
+Extract and rank key sections from the provided Transformer and BERT papers, highlighting model design, training optimizations, and performance results.
